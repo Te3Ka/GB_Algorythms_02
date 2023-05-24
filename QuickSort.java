@@ -33,7 +33,7 @@ public class QuickSort {
 
     public static int counts = 0;
     public static void main(String[] args) {
-        System.out.println("Bubble Sort");
+        System.out.println("Quick Sort");
         int[] startArray = new int[]{9, 6, 3, 8, 5, 2, 0, 7, 4, 1, 19, 16, 13, 18, 15, 12, 10, 20, 17, 14, 11};
         System.out.print("Start Array = ");
         for (int i = 0; i < startArray.length; i++) {
